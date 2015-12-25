@@ -1,3 +1,14 @@
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Color palette is an simple groovy application create by using few lines of code ">
+<meta name="keywords" content="kushabk,kusha bk,kusha b k">
+<meta name="keywords" content="Color palette is an simple groovy application create by using few lines of code ">
+<meta name="author" content="kusha bk">
+
+<meta http-equiv="refresh" content="30">
+</head>
+
+
 # ColorpaletteGroovy
 
 Colorpalette is an simple groovy application create by using few lines of code 
